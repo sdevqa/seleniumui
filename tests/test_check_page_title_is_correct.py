@@ -20,5 +20,3 @@ def test_check_page_title_is_correct(browser):
   page_title = browser.title
   assert page_title == 'The Internet'
 
-  time.sleep(2) # Debug for Demo Purposes
-
