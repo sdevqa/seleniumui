@@ -1,5 +1,5 @@
 # Getting Started 
-A simple UI starter project using Pytest, Selenium and Chromedriver-Autoinstaller. Uses Page Object Model design principles.
+UI starter project using Pytest, Selenium and Chromedriver-Autoinstaller. Uses Page Object Model design principles.
 
 # Packages
 PIP Packages:
