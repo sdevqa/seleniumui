@@ -1,11 +1,14 @@
 # Getting Started 
+A simple UI starter project using Pytest, Selenium and Chromedriver-Autoinstaller. Uses Page Object Model design principles.
+
+# Packages
 PIP Packages:
 - pip install pytest
 - pip install selenium
 - pip install chromedriver-autoinstaller
 - pip install pytest-html
 
-Test Running Examples:
+# Test Running Examples:
 - pytest -m {markername} -- run all tests with a given marker.
 - pytest {directoryname} -- run all tests in a given directory.
 - pytest {filename} -- run a single file.
